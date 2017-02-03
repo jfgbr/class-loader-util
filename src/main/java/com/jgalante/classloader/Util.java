@@ -4,7 +4,7 @@ public class Util {
 
 	
 	public String utilMessage() {
-		return "Util 0.0.1";
+		return "Util 0.0.2";
 	}
 	
 }
